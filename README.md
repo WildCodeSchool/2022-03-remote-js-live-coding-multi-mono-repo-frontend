@@ -1,0 +1,1 @@
+Hello World! This is the frontend stub for the [meta polyrepo example](https://github.com/WildCodeSchool/2022-03-remote-js-live-coding-multi-mono-repo-main).
